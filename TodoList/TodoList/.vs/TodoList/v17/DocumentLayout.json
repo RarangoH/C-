@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\TodoList\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F16E0B-D92B-4FF5-A7BD-4EE35C8A1303}|TodoList\\TodoList.csproj|c:\\users\\rafaa\\desktop\\orden_desorden\\csharp\\todolist\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F16E0B-D92B-4FF5-A7BD-4EE35C8A1303}|TodoList\\TodoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\TodoList\\TodoList\\TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList\\Program.cs",
+              "ToolTip": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\TodoList\\TodoList\\TodoList\\Program.cs",
+              "RelativeToolTip": "TodoList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:57:51.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

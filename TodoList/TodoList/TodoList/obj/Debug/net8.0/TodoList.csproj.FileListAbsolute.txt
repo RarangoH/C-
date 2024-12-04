@@ -1,0 +1,14 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\bin\Debug\net8.0\TodoList.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\bin\Debug\net8.0\TodoList.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\bin\Debug\net8.0\TodoList.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\bin\Debug\net8.0\TodoList.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\bin\Debug\net8.0\TodoList.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\refint\TodoList.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\TodoList\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll
