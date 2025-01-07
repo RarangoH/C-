@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\indexers\obj\Debug\net8.0\indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\indexers\obj\Debug\net8.0\indexers.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\indexers\obj\Debug\net8.0\indexers.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\indexers\obj\Debug\net8.0\indexers.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\indexers\obj\Debug\net8.0\indexers.sourcelink.json

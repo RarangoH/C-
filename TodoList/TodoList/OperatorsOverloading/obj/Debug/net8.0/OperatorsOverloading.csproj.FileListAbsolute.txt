@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\OperatorsOverloading\obj\Debug\net8.0\OperatorsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\OperatorsOverloading\obj\Debug\net8.0\OperatorsOverloading.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\OperatorsOverloading\obj\Debug\net8.0\OperatorsOverloading.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\OperatorsOverloading\obj\Debug\net8.0\OperatorsOverloading.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\OperatorsOverloading\obj\Debug\net8.0\OperatorsOverloading.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\bin\Debug\net8.0\cookieApp.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\bin\Debug\net8.0\cookieApp.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\bin\Debug\net8.0\cookieApp.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\bin\Debug\net8.0\cookieApp.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\bin\Debug\net8.0\cookieApp.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\refint\cookieApp.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\cookieApp.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\cookieApp\obj\Debug\net8.0\ref\cookieApp.dll

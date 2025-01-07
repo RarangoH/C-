@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\POO Tests\obj\Debug\net8.0\HotelBookingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\POO Tests\obj\Debug\net8.0\HotelBookingClass.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\POO Tests\obj\Debug\net8.0\HotelBookingClass.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\POO Tests\obj\Debug\net8.0\HotelBookingClass.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\POO Tests\obj\Debug\net8.0\HotelBookingClass.sourcelink.json

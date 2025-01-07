@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\AbstractMethods\obj\Debug\net8.0\AbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\AbstractMethods\obj\Debug\net8.0\AbstractMethods.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\AbstractMethods\obj\Debug\net8.0\AbstractMethods.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\AbstractMethods\obj\Debug\net8.0\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\AbstractMethods\obj\Debug\net8.0\AbstractMethods.sourcelink.json

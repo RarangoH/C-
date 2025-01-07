@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\bin\Debug\net8.0\RethrowingExceptions.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\bin\Debug\net8.0\RethrowingExceptions.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\bin\Debug\net8.0\RethrowingExceptions.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\bin\Debug\net8.0\RethrowingExceptions.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\bin\Debug\net8.0\RethrowingExceptions.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\refint\RethrowingExceptions.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\RethrowingExceptions.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\RethrowingExceptions\obj\Debug\net8.0\ref\RethrowingExceptions.dll

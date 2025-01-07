@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\dogClass\obj\Debug\net8.0\dogClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\dogClass\obj\Debug\net8.0\dogClass.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\dogClass\obj\Debug\net8.0\dogClass.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\dogClass\obj\Debug\net8.0\dogClass.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\dogClass\obj\Debug\net8.0\dogClass.sourcelink.json

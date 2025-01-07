@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExtensionMethods-ListExtension\obj\Debug\net8.0\ExtensionMethods-ListExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExtensionMethods-ListExtension\obj\Debug\net8.0\ExtensionMethods-ListExtension.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExtensionMethods-ListExtension\obj\Debug\net8.0\ExtensionMethods-ListExtension.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExtensionMethods-ListExtension\obj\Debug\net8.0\ExtensionMethods-ListExtension.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExtensionMethods-ListExtension\obj\Debug\net8.0\ExtensionMethods-ListExtension.sourcelink.json

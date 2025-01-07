@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\bin\Debug\net8.0\ExercismRandom.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\bin\Debug\net8.0\ExercismRandom.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\bin\Debug\net8.0\ExercismRandom.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\bin\Debug\net8.0\ExercismRandom.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\bin\Debug\net8.0\ExercismRandom.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\refint\ExercismRandom.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ExercismRandom.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ExercismRandom\obj\Debug\net8.0\ref\ExercismRandom.dll

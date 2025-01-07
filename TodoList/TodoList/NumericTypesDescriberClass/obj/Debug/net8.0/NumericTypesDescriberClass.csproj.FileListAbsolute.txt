@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\NumericTypesDescriberClass\obj\Debug\net8.0\NumericTypesDescriberClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\NumericTypesDescriberClass\obj\Debug\net8.0\NumericTypesDescriberClass.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\NumericTypesDescriberClass\obj\Debug\net8.0\NumericTypesDescriberClass.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\NumericTypesDescriberClass\obj\Debug\net8.0\NumericTypesDescriberClass.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\NumericTypesDescriberClass\obj\Debug\net8.0\NumericTypesDescriberClass.sourcelink.json

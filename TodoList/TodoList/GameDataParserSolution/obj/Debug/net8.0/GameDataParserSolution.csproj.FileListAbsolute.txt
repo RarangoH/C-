@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\bin\Debug\net8.0\GameDataParserSolution.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\bin\Debug\net8.0\GameDataParserSolution.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\bin\Debug\net8.0\GameDataParserSolution.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\bin\Debug\net8.0\GameDataParserSolution.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\bin\Debug\net8.0\GameDataParserSolution.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\refint\GameDataParserSolution.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\GameDataParserSolution.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\GameDataParserSolution\obj\Debug\net8.0\ref\GameDataParserSolution.dll

@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Calculator\obj\Debug\net8.0\ref\Calculator.dll

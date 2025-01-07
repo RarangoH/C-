@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\bin\Debug\net8.0\CustomCacheDDP.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\bin\Debug\net8.0\CustomCacheDDP.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\bin\Debug\net8.0\CustomCacheDDP.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\bin\Debug\net8.0\CustomCacheDDP.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\bin\Debug\net8.0\CustomCacheDDP.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\refint\CustomCacheDDP.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\CustomCacheDDP.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomCacheDDP\obj\Debug\net8.0\ref\CustomCacheDDP.dll

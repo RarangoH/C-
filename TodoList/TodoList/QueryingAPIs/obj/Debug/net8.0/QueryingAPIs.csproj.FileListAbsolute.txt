@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\bin\Debug\net8.0\QueryingAPIs.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\bin\Debug\net8.0\QueryingAPIs.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\bin\Debug\net8.0\QueryingAPIs.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\bin\Debug\net8.0\QueryingAPIs.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\bin\Debug\net8.0\QueryingAPIs.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\refint\QueryingAPIs.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\QueryingAPIs.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\QueryingAPIs\obj\Debug\net8.0\ref\QueryingAPIs.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "typeConstraints_IComparable-SortedListofFullNames/1.0.0": {
+        "runtime": {
+          "typeConstraints_IComparable-SortedListofFullNames.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "typeConstraints_IComparable-SortedListofFullNames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

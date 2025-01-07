@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\bin\Debug\net8.0\StarWarsApiAssignment.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\bin\Debug\net8.0\StarWarsApiAssignment.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\bin\Debug\net8.0\StarWarsApiAssignment.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\bin\Debug\net8.0\StarWarsApiAssignment.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\bin\Debug\net8.0\StarWarsApiAssignment.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\refint\StarWarsApiAssignment.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\StarWarsApiAssignment.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StarWarsApiAssignment\obj\Debug\net8.0\ref\StarWarsApiAssignment.dll

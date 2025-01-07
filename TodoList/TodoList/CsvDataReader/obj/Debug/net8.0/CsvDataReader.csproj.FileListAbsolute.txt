@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\bin\Debug\net8.0\CsvDataReader.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\bin\Debug\net8.0\CsvDataReader.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\bin\Debug\net8.0\CsvDataReader.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\bin\Debug\net8.0\CsvDataReader.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\bin\Debug\net8.0\CsvDataReader.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\refint\CsvDataReader.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\CsvDataReader.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CsvDataReader\obj\Debug\net8.0\ref\CsvDataReader.dll

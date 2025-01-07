@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DailyAccountStateClass\obj\Debug\net8.0\DailyAccountStateClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DailyAccountStateClass\obj\Debug\net8.0\DailyAccountStateClass.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DailyAccountStateClass\obj\Debug\net8.0\DailyAccountStateClass.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DailyAccountStateClass\obj\Debug\net8.0\DailyAccountStateClass.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DailyAccountStateClass\obj\Debug\net8.0\DailyAccountStateClass.sourcelink.json

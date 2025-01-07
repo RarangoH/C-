@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Inheritance_Overriding-Animals\obj\Debug\net8.0\Inheritance_Overriding-Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Inheritance_Overriding-Animals\obj\Debug\net8.0\Inheritance_Overriding-Animals.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Inheritance_Overriding-Animals\obj\Debug\net8.0\Inheritance_Overriding-Animals.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Inheritance_Overriding-Animals\obj\Debug\net8.0\Inheritance_Overriding-Animals.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Inheritance_Overriding-Animals\obj\Debug\net8.0\Inheritance_Overriding-Animals.sourcelink.json

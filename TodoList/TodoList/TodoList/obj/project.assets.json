@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\TodoList\\TodoList\\TodoList\\TodoList.csproj",
+      "projectUniqueName": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\C#\\TodoList\\TodoList\\TodoList\\TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\TodoList\\TodoList\\TodoList\\TodoList.csproj",
+      "projectPath": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\C#\\TodoList\\TodoList\\TodoList\\TodoList.csproj",
       "packagesPath": "C:\\Users\\rafaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\TodoList\\TodoList\\TodoList\\obj\\",
+      "outputPath": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\C#\\TodoList\\TodoList\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

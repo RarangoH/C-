@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\bin\Debug\net8.0\CustomLinkedListApp.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\bin\Debug\net8.0\CustomLinkedListApp.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\bin\Debug\net8.0\CustomLinkedListApp.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\bin\Debug\net8.0\CustomLinkedListApp.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\bin\Debug\net8.0\CustomLinkedListApp.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\refint\CustomLinkedListApp.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\CustomLinkedListApp.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\CustomLinkedListApp\obj\Debug\net8.0\ref\CustomLinkedListApp.dll

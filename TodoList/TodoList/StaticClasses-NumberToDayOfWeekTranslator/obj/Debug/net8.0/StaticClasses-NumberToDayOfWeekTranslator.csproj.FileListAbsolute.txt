@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\bin\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\bin\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\bin\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\bin\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\bin\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\refint\StaticClasses-NumberToDayOfWeekTranslator.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\StaticClasses-NumberToDayOfWeekTranslator.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\StaticClasses-NumberToDayOfWeekTranslator\obj\Debug\net8.0\ref\StaticClasses-NumberToDayOfWeekTranslator.dll

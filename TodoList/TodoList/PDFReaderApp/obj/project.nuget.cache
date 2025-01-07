@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQvKyyF1vjk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafaa\\Desktop\\Orden_Desorden\\Csharp\\C#\\TodoList\\TodoList\\PDFReaderApp\\PDFReaderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafaa\\.nuget\\packages\\pdfpig\\0.1.9\\pdfpig.0.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

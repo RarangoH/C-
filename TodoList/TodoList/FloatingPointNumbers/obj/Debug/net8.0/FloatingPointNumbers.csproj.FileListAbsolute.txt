@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\refint\FloatingPointNumbers.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\FloatingPointNumbers\obj\Debug\net8.0\ref\FloatingPointNumbers.dll

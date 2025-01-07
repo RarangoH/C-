@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\bin\Debug\net8.0\ApiAssignment.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\bin\Debug\net8.0\ApiAssignment.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\bin\Debug\net8.0\ApiAssignment.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\bin\Debug\net8.0\ApiAssignment.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\bin\Debug\net8.0\ApiAssignment.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\refint\ApiAssignment.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ApiAssignment.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ApiAssignment\obj\Debug\net8.0\ref\ApiAssignment.dll

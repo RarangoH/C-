@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\bin\Debug\net8.0\VirtualMethods-StringProcessorClasses.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\bin\Debug\net8.0\VirtualMethods-StringProcessorClasses.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\bin\Debug\net8.0\VirtualMethods-StringProcessorClasses.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\bin\Debug\net8.0\VirtualMethods-StringProcessorClasses.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\bin\Debug\net8.0\VirtualMethods-StringProcessorClasses.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\refint\VirtualMethods-StringProcessorClasses.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\VirtualMethods-StringProcessorClasses.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\VirtualMethods-StringProcessorClasses\obj\Debug\net8.0\ref\VirtualMethods-StringProcessorClasses.dll

@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Records-GpsCoordinates\obj\Debug\net8.0\Records-GpsCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Records-GpsCoordinates\obj\Debug\net8.0\Records-GpsCoordinates.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Records-GpsCoordinates\obj\Debug\net8.0\Records-GpsCoordinates.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Records-GpsCoordinates\obj\Debug\net8.0\Records-GpsCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\Records-GpsCoordinates\obj\Debug\net8.0\Records-GpsCoordinates.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\bin\Debug\net8.0\ref_modifier.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\bin\Debug\net8.0\ref_modifier.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\bin\Debug\net8.0\ref_modifier.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\bin\Debug\net8.0\ref_modifier.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\bin\Debug\net8.0\ref_modifier.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\refint\ref_modifier.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref_modifier.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\ref_modifier\obj\Debug\net8.0\ref\ref_modifier.dll

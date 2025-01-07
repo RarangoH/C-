@@ -1,0 +1,5 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DisposeMethod\obj\Debug\net8.0\DisposeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DisposeMethod\obj\Debug\net8.0\DisposeMethod.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DisposeMethod\obj\Debug\net8.0\DisposeMethod.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DisposeMethod\obj\Debug\net8.0\DisposeMethod.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\DisposeMethod\obj\Debug\net8.0\DisposeMethod.sourcelink.json

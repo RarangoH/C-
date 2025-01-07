@@ -1,0 +1,15 @@
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\bin\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.exe
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\bin\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.deps.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\bin\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.runtimeconfig.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\bin\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\bin\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.AssemblyInfoInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.AssemblyInfo.cs
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.sourcelink.json
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\refint\typeConstraints_IComparable-SortedListofFullNames.dll
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.pdb
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\typeConstraints_IComparable-SortedListofFullNames.genruntimeconfig.cache
+C:\Users\rafaa\Desktop\Orden_Desorden\Csharp\C#\TodoList\TodoList\typeConstraints_IComparable-SortedListofFullNames\obj\Debug\net8.0\ref\typeConstraints_IComparable-SortedListofFullNames.dll
